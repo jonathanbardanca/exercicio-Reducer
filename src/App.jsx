@@ -1,6 +1,6 @@
 import React from 'react';
-import Contador from './contador';
-import Lista from './lista';
+import Contador from './Contador.jsx';
+import Lista from './Lista.jsx';
 
 function App() {
 
